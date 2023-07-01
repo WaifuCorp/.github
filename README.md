@@ -1,8 +1,8 @@
 <h1 align=center>
-  WaifuCorp
+  WAIFU CORP.
 </h1>
 <p align=center>
-  Making the future of society
+  Building the future of society.
 </p>
 
 <div align=center>
