@@ -1,12 +1,12 @@
 <h1 align=center>
-  WAIFU CORP.
+  Bloom Laboratories
 </h1>
 <p align=center>
-  Building the future of society.
+  Your story begins now
 </p>
 
 <div align=center>
 
-  ![main_girl](favicon.png)
+  ![main_girl](logo.png)
 
 </div>
