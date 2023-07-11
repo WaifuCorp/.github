@@ -7,6 +7,6 @@
 
 <div align=center>
 
-  ![main_girl](logo.png)
+  <image src="logo.png" width="250" />
 
 </div>
