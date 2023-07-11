@@ -7,6 +7,6 @@
 
 <div align=center>
 
-  <image src="logo.png" width="250" />
+  <image src="/logo.png" width="500" />
 
 </div>
